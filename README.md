@@ -9,7 +9,7 @@ Learning about Neural Networks by implementing one in C.
 - https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
 - https://hbfs.wordpress.com/2012/04/24/introduction-to-gradient-descent/
 
-## Related to C
+### Related to C
 - https://www.tutorialspoint.com/cprogramming/c_structures.htm
 - https://www.tutorialspoint.com/cprogramming/c_arrays.htm
 - https://www.tutorialspoint.com/cprogramming/c_memory_management.htm
